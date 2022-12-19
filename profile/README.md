@@ -35,5 +35,6 @@ a MRV participa do projeto de prototipação de uma solução de desenvolvimento
   - Link para acessar: https://0c9qk2-1330.preview.csb.app/public/
   - Link do repositório: https://github.com/2022M2T6-Inteli/HORIZON
   
-  - Grupo MRV connect - Projeto MRV&CO
+- Grupo MRV connect - Projeto MRV&CO
+  - Link para acessar: Não Disponível.
   - Link do repositório: https://github.com/2022M2T6-Inteli/MRV-connect
