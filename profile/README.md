@@ -1,13 +1,14 @@
 # 🙋‍ 2022.2 - Módulo WEB - Turma 6 - MRV
 
 ## 🔍 O problema:
+O projeto visa atuar em dois problemas: a escassez de mão de obra nos canteiros, algo que é relatado por todo setor da construção civil; e a contratação manual e lenta de empreiteiros devido a todas as particularidades de uma empresa que atua em todo o território nacional.
 
 ## 🎯 O objetivo:
 Com o objetivo de automatizar o processo de contratação de mão de obra e empreiteiras, garantia a acessibilidade para todos os prestadores de serviço,
 a MRV participa do projeto de prototipação de uma solução de desenvolvimento Web com os alunos do Inteli.
 
 ## 🧩 O público-alvo:
-
+Gestores e empreiteiros
 
 ## 💻 Desenvolvimento WEB:
 
